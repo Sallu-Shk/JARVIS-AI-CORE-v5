@@ -80,19 +80,19 @@ Whether you want to download videos, extract high-quality audio, or manage media
 
 ----------------------------------
 
-🛠 Installation
+🛠 Installation 👇
 
-pkg update && pkg upgrade -y
+🔸pkg update && pkg upgrade -y
 
-pkg install python git ffmpeg -y
+🔸pkg install python git ffmpeg -y
 
-pip install yt-dlp
+🔸pip install yt-dlp
 
-git clone https://github.com/Sallu-Shk/JARVIS-AI-CORE-v5.git
+🔸git clone https://github.com/Sallu-Shk/JARVIS-AI-CORE-v5.git
 
-cd JARVIS-AI-CORE-v5
+🔸cd JARVIS-AI-CORE-v5
 
-python Jarvis.py
+🔸python Jarvis.py
 
 -----------------------------------
 
